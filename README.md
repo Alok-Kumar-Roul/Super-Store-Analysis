@@ -14,3 +14,6 @@ Leveraging historical sales data, our approach applies cutting-edge time series 
 
 # Actionable Insights and Recommendations:
 Our focus is on delivering actionable insights for strategic decision-making, aligning recommendations with the supermarket's goals for growth, efficiency, and customer satisfaction. Continuous improvement is ensured through a feedback loop, adapting to evolving business dynamics.
+![Spper store dashbord](https://github.com/Alok-Kumar-Roul/Super-Store-Analysis/assets/79954408/b55f7ad4-4d4a-47d7-bb0e-592c3d1f8c4d)
+
+![Sale Dashbord](https://github.com/Alok-Kumar-Roul/Super-Store-Analysis/assets/79954408/3b0e0005-91f4-430f-9db0-b9076262c136)
